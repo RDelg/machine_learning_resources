@@ -1,9 +1,36 @@
 # Machine learning
+
 * Courses:
 	* https://mlcourse.ai
+	* MIT:
+		* http://introtodeeplearning.com/
+		* https://agi.mit.edu/
+		* https://selfdrivingcars.mit.edu/
+	* Stanford:
+		*	 http://cs229.stanford.edu/
+	 	* http://cs230.stanford.edu/syllabus.html
+	    * http://web.stanford.edu/class/cs224d/syllabus.html
+	 	* http://web.stanford.edu/class/cs224n/syllabus.html
+			* YouTube https://youtu.be/OQQ-W_63UgQ
+	 	* http://cs231n.stanford.edu/
+	 	* https://web.stanford.edu/class/cs20si/syllabus.html
+	 	* http://web.stanford.edu/class/cs234/schedule.html
+	 	* http://cs230.stanford.edu/index.html 
+
+* Books:
+	* https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
+	* An Introduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/
+	* http://students.brown.edu/seeing-theory/
+	* http://neuralnetworksanddeeplearning.com/
+	* https://www.deeplearningbook.org/
 
 * Slides:
   * https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?slide=id.g168a3288f7_0_58
+
+* Interesting links:
+	* A brief history of neural nets and deep learning: http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/
+	* CNN visualizator: http://scs.ryerson.ca/~aharley/vis/
+
 
 # Forecasting
 * Books:
