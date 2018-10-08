@@ -23,6 +23,8 @@
 	* http://students.brown.edu/seeing-theory/
 	* http://neuralnetworksanddeeplearning.com/
 	* https://www.deeplearningbook.org/
+	* https://mml-book.com
+	* "Mathematics for Machine Learning": http://gwthomas.github.io/docs/math4ml.pdf
 
 * Slides:
   * https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?slide=id.g168a3288f7_0_58
@@ -30,7 +32,17 @@
 * Interesting links:
 	* A brief history of neural nets and deep learning: http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/
 	* CNN visualizator: http://scs.ryerson.ca/~aharley/vis/
+	* https://www.kaggle.com/jack89roberts/the-journey-of-an-image-through-a-neural-network/notebook
 
+* Cheatsheet:
+	* https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+
+* Useful librarys:
+	* https://github.com/DistrictDataLabs/yellowbrick/
+
+# NLP
+* Medium:
+	* https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
 
 # Forecasting
 * Books:
