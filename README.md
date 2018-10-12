@@ -86,6 +86,7 @@
 * Projects:
   * https://github.com/keras-rl/keras-rl
   * https://github.com/carpedm20/deep-rl-tensorflow
+  * https://github.com/kengz/SLM-Lab --> https://colab.research.google.com/drive/1GmB_SqtmYj0YN6SKD9wn-D5LB2qBj2Ok#scrollTo=eNLMWPbcHJql
 
 * Papers:
   * https://www.reddit.com/r/reinforcementlearning/comments/8k356e/new_phd_student_what_papers_should_i_read_first/dz4jvd5
