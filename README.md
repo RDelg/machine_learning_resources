@@ -69,6 +69,7 @@
   * History of reinforcement learning: https://youtu.be/ul6B2oFPNDM
   * Deep reinforcement learning (4 lectures): https://youtu.be/aUrX-rP_ss4
   * An introduction to Reinforcement Learning: https://youtu.be/JgvyzIkgxF0
+  * Deep RL Bootcamp 2017: https://youtu.be/qaMdN6LS9rA
 
 * Blogs
   * https://www.lpalmieri.com/posts/rl-introduction-00/
