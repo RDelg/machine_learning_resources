@@ -65,6 +65,7 @@
 
 * Pages
   * David Silver OpenAI blog: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html *
+  * https://spinningup.openai.com/en/latest/
 
 * YouTube
   * Deepmind classes: https://youtu.be/2pWv7GOvuf0 *
