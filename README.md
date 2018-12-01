@@ -69,6 +69,7 @@
 
 * YouTube
   * Deepmind classes: https://youtu.be/2pWv7GOvuf0 *
+  * Deepmind Course: https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
   * History of reinforcement learning: https://youtu.be/ul6B2oFPNDM
   * Deep reinforcement learning (4 lectures): https://youtu.be/aUrX-rP_ss4
   * An introduction to Reinforcement Learning: https://youtu.be/JgvyzIkgxF0
