@@ -44,7 +44,7 @@
 
 ## Useful libraries:
   * https://github.com/DistrictDataLabs/yellowbrick/
-   https://github.com/sepandhaghighi/pycm
+  * https://github.com/sepandhaghighi/pycm
 
 
 # NLP
