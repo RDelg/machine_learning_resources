@@ -20,6 +20,7 @@
  	* https://web.stanford.edu/class/cs20si/syllabus.html
  	* http://web.stanford.edu/class/cs234/schedule.html
  	* http://cs230.stanford.edu/index.html 
+	* https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
 
 ## Books:
   * https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
@@ -31,8 +32,11 @@
   * "Mathematics for Machine Learning": http://gwthomas.github.io/docs/math4ml.pdf
   * The Hundred-Page Machine Learning Book: http://themlbook.com/wiki/doku.php
 
-## Papers Roadmap:
-  * https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+## Papers:
+  * Roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+  * https://distill.pub/
+  * https://paperswithcode.com/sota
+  * http://www.cs.cmu.edu/~aharley/
 
 ## Interesting links:
   * https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?slide=id.g168a3288f7_0_58
@@ -41,7 +45,8 @@
   * https://www.kaggle.com/jack89roberts/the-journey-of-an-image-through-a-neural-network/notebook
   * Tensorflow and deep learning without a PhD: https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
   * Cheatsheet: https://ml-cheatsheet.readthedocs.io/en/latest/index.html
-
+  * CNN Visualizator: http://yosinski.com/deepvis#toolbox
+  
 ## Useful libraries:
   * https://github.com/DistrictDataLabs/yellowbrick/
   * https://github.com/sepandhaghighi/pycm
