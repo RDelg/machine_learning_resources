@@ -111,3 +111,12 @@
 
 ## Papers:
   * https://www.reddit.com/r/reinforcementlearning/comments/8k356e/new_phd_student_what_papers_should_i_read_first/dz4jvd5
+  
+# Programming
+## Pandas
+* https://tomaugspurger.github.io/modern-1-intro
+* https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428
+
+## Perl
+* https://www.perl.com/pub/2004/08/09/commandline.html/
+
